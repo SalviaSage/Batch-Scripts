@@ -1,3 +1,5 @@
+Replacer v2.63 (x64)(2007-04-15)
+
 1) Beta version is confirmed working on Win10.
 2) This needs to run as system to work.
 
